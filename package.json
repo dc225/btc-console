@@ -1,0 +1,21 @@
+{
+  "name": "btc-console",
+  "version": "1.0.0",
+  "description": "btc rate to console",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dc225/btc-console.git"
+  },
+  "keywords": [
+    "btc"
+  ],
+  "author": "c0nfus3d <https://github.com/c0nfus3d>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
