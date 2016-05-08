@@ -4,6 +4,15 @@ Outputs the current bitcoin rate to the console
 
 ---
 
+
+
+### Install the Application
+- `npm install`
+
+### Run the Application
+- `node app.js` or `npm start`
+
+
 ### Docs & References
   - Node.JS <https://nodejs.org>
   - request <https://www.npmjs.com/package/request>

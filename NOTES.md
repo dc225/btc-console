@@ -11,9 +11,3 @@ Notes for DC225 [Intro to Node.JS](https://github.com/dc225/btc-console) project
 #### Install Required Node Packages
   - `~$ npm install --save request` <https://www.npmjs.com/package/request>
     - `--save` adds the package `"dependencies"` to the `package.json` so you can re/install your application later
-
-#### Install the Application
-  - `npm install`
-
-#### Run the Application
-  - `node app.js` or `npm start`
