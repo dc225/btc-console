@@ -1,4 +1,4 @@
-### Notes
+# Notes
 
 Notes for DC225 Intro to Node.JS
 
