@@ -16,6 +16,7 @@ Outputs the current bitcoin rate to the console
 ### Docs & References
   - Node.JS <https://nodejs.org>
   - request <https://www.npmjs.com/package/request>
+  - package.json <http://browsenpm.org/package.json>
   - Talk Notes <https://github.com/dc225/btc-console/blob/master/NOTES.md>
   - `setTimeout()` <http://www.w3schools.com/jsref/met_win_settimeout.asp>
 
