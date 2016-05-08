@@ -5,10 +5,11 @@ Outputs the current bitcoin rate to the console
 ---
 
 ### Docs & References
-  - `setTimeout()` <http://www.w3schools.com/jsref/met_win_settimeout.asp>
   - Node.JS <https://nodejs.org>
   - request <https://www.npmjs.com/package/request>
-  
+  - Talk Notes <https://github.com/dc225/btc-console/blob/master/NOTES.md>
+  - `setTimeout()` <http://www.w3schools.com/jsref/met_win_settimeout.asp>
+
 ### License
 
 Copyright (c) 2016 DC225
