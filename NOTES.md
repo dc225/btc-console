@@ -1,6 +1,6 @@
 # Notes
 
-Notes for DC225 Intro to Node.JS
+Notes for DC225 [Intro to Node.JS](https://github.com/dc225/btc-console) project
 
 #### Create Node Package
 `~$ npm init`
