@@ -10,3 +10,10 @@ Notes for DC225 [Intro to Node.JS](https://github.com/dc225/btc-console) project
 
 #### Install Required Node Packages
   - `~$ npm install --save request` <https://www.npmjs.com/package/request>
+
+#### Install Application
+  - `npm install`
+
+#### Run Application
+  - `node app.js`
+  - `npm start`
